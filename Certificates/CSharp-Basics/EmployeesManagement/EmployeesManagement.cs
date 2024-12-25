@@ -1,4 +1,4 @@
-namespace HackerRankPractice.Certificates.CSharp_Basics;
+namespace HackerRankPractice.Certificates.CSharp_Basics.EmployeesManagement;
 
 public class EmployeesManagement
 {
