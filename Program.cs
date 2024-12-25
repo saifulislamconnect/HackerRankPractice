@@ -1,0 +1,3 @@
+﻿using HackerRankPractice;
+
+SampleProgram.EntryMethod();
